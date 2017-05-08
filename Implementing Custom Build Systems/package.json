@@ -1,0 +1,17 @@
+{
+  "name": "custombuild",
+  "version": "1.0.0",
+  "description": "Example repo for building creating custom builds",
+  "engines": {
+    "node": ">=7.1.0"
+  },
+  "scripts": {
+    "example": "node build/example",
+    "build": "node build/tasks/default"
+  },
+  "private": true,
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
