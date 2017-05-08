@@ -1,0 +1,7 @@
+Why use a custom build system?
+
+- Eliminates need for global node dependencies like Grunt / Gulp
+- Highly configurable
+- You don't need a custom task runner like gulp / grunt, if your project is simple, your build can be too.
+- Use the power of NPM scripts!
+- Things become less "Magical".
